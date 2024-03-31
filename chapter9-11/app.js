@@ -171,6 +171,7 @@
 //     Swal.fire("Invalid!!!");
 // }
 
+// Question no 11
 let user_input=+prompt("Calculator \n\n 1.+ \n 2.- \n 3.* \n 4./ \n 5.% \n\n Enter your choice");
 if(user_input ===1){
     let add1=+prompt("Enter first number");
